@@ -42,9 +42,9 @@ The parameters will be injected into the schematic symbol in the following way.
 * Substitute the ' ' characters with '-'
 * Place '%%' to the beginning and to the end of the string
 
-E.g. the data in the 'Parameter seconday' column will be injected to the schematic symbol '%%PARAMETER-SECONDARY%%' value.
+E.g. the data in the `'Parameter seconday'` column will be injected to the schematic symbol `'%%PARAMETER-SECONDARY%%'` value.
 
-![Symbol Parameters](https://github.com/tamasfederer/kicad-library-generator/blob/main/doc/symbol-parameter.png?raw=true)
+![Symbol Parameters](https://github.com/tamasfederer/kicad-library-generator/blob/main/doc/symbol-parameter.PNG?raw=true)
 
 Have a look on the example, make some trials and feel free to add more components and/or sheets.
 
