@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CL10B103KB8NNNC
+D Capacitor, Standard, CAP-0603, 10nF, 50V, 10%, 0603, X7R, -55 ... +125degC
+K Capacitor, Standard, CAP-0603, Samsung, CL10B103KB8NNNC, 10nF, 50V, 10%, 0603, X7R, -55 ... +125degC
+F http://product.samsungsem.com/mlcc/CL10B103KB8NNN.do
+$ENDCMP
+#
+$CMP CL10A105KA8NNNC
+D Capacitor, Standard, CAP-0603, 1uF, 25V, 10%, 0603, X5R, -55 ... +85degC
+K Capacitor, Standard, CAP-0603, Samsung, CL10A105KA8NNNC, 1uF, 25V, 10%, 0603, X5R, -55 ... +85degC
+F http://product.samsungsem.com/mlcc/CL10A105KA8NNN.do
+$ENDCMP
+#
+$CMP CL10A475KP8NNNC
+D Capacitor, Standard, CAP-0603, 4.7uF, 10V, 10%, 0603, X5R, -55 ... +85degC
+K Capacitor, Standard, CAP-0603, Samsung, CL10A475KP8NNNC, 4.7uF, 10V, 10%, 0603, X5R, -55 ... +85degC
+F http://product.samsungsem.com/mlcc/CL10A475KP8NNN.do
+$ENDCMP
+#
+$CMP CL10B104KB8NNNL
+D Capacitor, Standard, CAP-0603, 100nF, 50V, 10%, 0603, X7R, -55 ... +125degC
+K Capacitor, Standard, CAP-0603, Samsung, CL10B104KB8NNNL, 100nF, 50V, 10%, 0603, X7R, -55 ... +125degC
+F http://product.samsungsem.com/mlcc/CL10B104KB8NNN.do
+$ENDCMP
+#
+$CMP CL10C101JC8NNNC
+D Capacitor, Standard, CAP-0603, 100pF, 100V, 5%, 0603, C0G, -55 ... +125degC
+K Capacitor, Standard, CAP-0603, Samsung, CL10C101JC8NNNC, 100pF, 100V, 5%, 0603, C0G, -55 ... +125degC
+F http://product.samsungsem.com/mlcc/CL10C101JC8NNN.do
+$ENDCMP
+#
+$CMP CL10B472KB8NNNC
+D Capacitor, Standard, CAP-0603, 4.7nF, 50V, 10%, 0603, X7R, -55 ... +125degC
+K Capacitor, Standard, CAP-0603, Samsung, CL10B472KB8NNNC, 4.7nF, 50V, 10%, 0603, X7R, -55 ... +125degC
+F http://product.samsungsem.com/mlcc/CL10B472KB8NNN.do
+$ENDCMP
+#
+$CMP CL10C100JB8NNNC
+D Capacitor, Standard, CAP-0603, 10pF, 50V, 5%, 0603, C0G, -55 ... +125degC
+K Capacitor, Standard, CAP-0603, Samsung, CL10C100JB8NNNC, 10pF, 50V, 5%, 0603, C0G, -55 ... +125degC
+F http://product.samsungsem.com/mlcc/CL10C100JB8NNN.do
+$ENDCMP
+#
+$CMP CL10C120JB8NNNC
+D Capacitor, Standard, CAP-0603, 12pF, 50V, 5%, 0603, C0G, -55 ... +125degC
+K Capacitor, Standard, CAP-0603, Samsung, CL10C120JB8NNNC, 12pF, 50V, 5%, 0603, C0G, -55 ... +125degC
+F http://product.samsungsem.com/mlcc/CL10C120JB8NNN.do
+$ENDCMP
+#
+#End Doc Library

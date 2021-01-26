@@ -1,0 +1,250 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# RC0603FR-071K5L
+#
+DEF RC0603FR-071K5L R 0 0 N N 1 F N
+F0 "R" 50 -50 25 H V L CNN
+F1 "RC0603FR-071K5L" 50 -150 25 H I L CNN
+F2 "footprint:RES-0603" 50 -350 25 H I L CNN
+F3 "" 0 0 25 H I L CNN
+F4 "1k5, 1%" 50 -100 25 H V L CNN "Parameter primary"
+F5 "0.1W, -55 … +155degC" 50 -200 25 H I L CNN "Parameter secondary"
+F6 "Yageo" 50 -250 25 H I L CNN "Manufacturer"
+F7 "RC0603FR-071K5L" 50 -300 25 H I L CNN "Part Number"
+DRAW
+S -25 -50 25 -150 1 1 0 N
+X ~ 1 0 0 50 D 25 25 1 1 P
+X ~ 2 0 -200 50 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#
+# RC0603FR-072K7L
+#
+DEF RC0603FR-072K7L R 0 0 N N 1 F N
+F0 "R" 50 -50 25 H V L CNN
+F1 "RC0603FR-072K7L" 50 -150 25 H I L CNN
+F2 "footprint:RES-0603" 50 -350 25 H I L CNN
+F3 "" 0 0 25 H I L CNN
+F4 "2k7, 1%" 50 -100 25 H V L CNN "Parameter primary"
+F5 "0.1W, -55 … +155degC" 50 -200 25 H I L CNN "Parameter secondary"
+F6 "Yageo" 50 -250 25 H I L CNN "Manufacturer"
+F7 "RC0603FR-072K7L" 50 -300 25 H I L CNN "Part Number"
+DRAW
+S -25 -50 25 -150 1 1 0 N
+X ~ 1 0 0 50 D 25 25 1 1 P
+X ~ 2 0 -200 50 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#
+# RC0603FR-074K7L
+#
+DEF RC0603FR-074K7L R 0 0 N N 1 F N
+F0 "R" 50 -50 25 H V L CNN
+F1 "RC0603FR-074K7L" 50 -150 25 H I L CNN
+F2 "footprint:RES-0603" 50 -350 25 H I L CNN
+F3 "" 0 0 25 H I L CNN
+F4 "4k7, 1%" 50 -100 25 H V L CNN "Parameter primary"
+F5 "0.1W, -55 … +155degC" 50 -200 25 H I L CNN "Parameter secondary"
+F6 "Yageo" 50 -250 25 H I L CNN "Manufacturer"
+F7 "RC0603FR-074K7L" 50 -300 25 H I L CNN "Part Number"
+DRAW
+S -25 -50 25 -150 1 1 0 N
+X ~ 1 0 0 50 D 25 25 1 1 P
+X ~ 2 0 -200 50 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#
+# RC0603FR-075K1L
+#
+DEF RC0603FR-075K1L R 0 0 N N 1 F N
+F0 "R" 50 -50 25 H V L CNN
+F1 "RC0603FR-075K1L" 50 -150 25 H I L CNN
+F2 "footprint:RES-0603" 50 -350 25 H I L CNN
+F3 "" 0 0 25 H I L CNN
+F4 "5k1, 1%" 50 -100 25 H V L CNN "Parameter primary"
+F5 "0.1W, -55 … +155degC" 50 -200 25 H I L CNN "Parameter secondary"
+F6 "Yageo" 50 -250 25 H I L CNN "Manufacturer"
+F7 "RC0603FR-075K1L" 50 -300 25 H I L CNN "Part Number"
+DRAW
+S -25 -50 25 -150 1 1 0 N
+X ~ 1 0 0 50 D 25 25 1 1 P
+X ~ 2 0 -200 50 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#
+# RC0603FR-0710KL
+#
+DEF RC0603FR-0710KL R 0 0 N N 1 F N
+F0 "R" 50 -50 25 H V L CNN
+F1 "RC0603FR-0710KL" 50 -150 25 H I L CNN
+F2 "footprint:RES-0603" 50 -350 25 H I L CNN
+F3 "" 0 0 25 H I L CNN
+F4 "10k, 1%" 50 -100 25 H V L CNN "Parameter primary"
+F5 "0.1W, -55 … +155degC" 50 -200 25 H I L CNN "Parameter secondary"
+F6 "Yageo" 50 -250 25 H I L CNN "Manufacturer"
+F7 "RC0603FR-0710KL" 50 -300 25 H I L CNN "Part Number"
+DRAW
+S -25 -50 25 -150 1 1 0 N
+X ~ 1 0 0 50 D 25 25 1 1 P
+X ~ 2 0 -200 50 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#
+# RC0603FR-0722RL
+#
+DEF RC0603FR-0722RL R 0 0 N N 1 F N
+F0 "R" 50 -50 25 H V L CNN
+F1 "RC0603FR-0722RL" 50 -150 25 H I L CNN
+F2 "footprint:RES-0603" 50 -350 25 H I L CNN
+F3 "" 0 0 25 H I L CNN
+F4 "22R, 1%" 50 -100 25 H V L CNN "Parameter primary"
+F5 "0.1W, -55 … +155degC" 50 -200 25 H I L CNN "Parameter secondary"
+F6 "Yageo" 50 -250 25 H I L CNN "Manufacturer"
+F7 "RC0603FR-0722RL" 50 -300 25 H I L CNN "Part Number"
+DRAW
+S -25 -50 25 -150 1 1 0 N
+X ~ 1 0 0 50 D 25 25 1 1 P
+X ~ 2 0 -200 50 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#
+# RC0603FR-0747KL
+#
+DEF RC0603FR-0747KL R 0 0 N N 1 F N
+F0 "R" 50 -50 25 H V L CNN
+F1 "RC0603FR-0747KL" 50 -150 25 H I L CNN
+F2 "footprint:RES-0603" 50 -350 25 H I L CNN
+F3 "" 0 0 25 H I L CNN
+F4 "47k, 1%" 50 -100 25 H V L CNN "Parameter primary"
+F5 "0.1W, -55 … +155degC" 50 -200 25 H I L CNN "Parameter secondary"
+F6 "Yageo" 50 -250 25 H I L CNN "Manufacturer"
+F7 "RC0603FR-0747KL" 50 -300 25 H I L CNN "Part Number"
+DRAW
+S -25 -50 25 -150 1 1 0 N
+X ~ 1 0 0 50 D 25 25 1 1 P
+X ~ 2 0 -200 50 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#
+# RC0603FR-0782RL
+#
+DEF RC0603FR-0782RL R 0 0 N N 1 F N
+F0 "R" 50 -50 25 H V L CNN
+F1 "RC0603FR-0782RL" 50 -150 25 H I L CNN
+F2 "footprint:RES-0603" 50 -350 25 H I L CNN
+F3 "" 0 0 25 H I L CNN
+F4 "82R, 1%" 50 -100 25 H V L CNN "Parameter primary"
+F5 "0.1W, -55 … +155degC" 50 -200 25 H I L CNN "Parameter secondary"
+F6 "Yageo" 50 -250 25 H I L CNN "Manufacturer"
+F7 "RC0603FR-0782RL" 50 -300 25 H I L CNN "Part Number"
+DRAW
+S -25 -50 25 -150 1 1 0 N
+X ~ 1 0 0 50 D 25 25 1 1 P
+X ~ 2 0 -200 50 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#
+# RC0603FR-07120RL
+#
+DEF RC0603FR-07120RL R 0 0 N N 1 F N
+F0 "R" 50 -50 25 H V L CNN
+F1 "RC0603FR-07120RL" 50 -150 25 H I L CNN
+F2 "footprint:RES-0603" 50 -350 25 H I L CNN
+F3 "" 0 0 25 H I L CNN
+F4 "120R, 1%" 50 -100 25 H V L CNN "Parameter primary"
+F5 "0.1W, -55 … +155degC" 50 -200 25 H I L CNN "Parameter secondary"
+F6 "Yageo" 50 -250 25 H I L CNN "Manufacturer"
+F7 "RC0603FR-07120RL" 50 -300 25 H I L CNN "Part Number"
+DRAW
+S -25 -50 25 -150 1 1 0 N
+X ~ 1 0 0 50 D 25 25 1 1 P
+X ~ 2 0 -200 50 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#
+# RC0603JR-070RL
+#
+DEF RC0603JR-070RL R 0 0 N N 1 F N
+F0 "R" 50 -50 25 H V L CNN
+F1 "RC0603JR-070RL" 50 -150 25 H I L CNN
+F2 "footprint:RES-0603" 50 -350 25 H I L CNN
+F3 "" 0 0 25 H I L CNN
+F4 "0R, 5%" 50 -100 25 H V L CNN "Parameter primary"
+F5 "0.1W, -55 … +155degC" 50 -200 25 H I L CNN "Parameter secondary"
+F6 "Yageo" 50 -250 25 H I L CNN "Manufacturer"
+F7 "RC0603JR-070RL" 50 -300 25 H I L CNN "Part Number"
+DRAW
+S -25 -50 25 -150 1 1 0 N
+X ~ 1 0 0 50 D 25 25 1 1 P
+X ~ 2 0 -200 50 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#
+# RC0603FR-0722KL
+#
+DEF RC0603FR-0722KL R 0 0 N N 1 F N
+F0 "R" 50 -50 25 H V L CNN
+F1 "RC0603FR-0722KL" 50 -150 25 H I L CNN
+F2 "footprint:RES-0603" 50 -350 25 H I L CNN
+F3 "" 0 0 25 H I L CNN
+F4 "22k, 1%" 50 -100 25 H V L CNN "Parameter primary"
+F5 "0.1W, -55 … +155degC" 50 -200 25 H I L CNN "Parameter secondary"
+F6 "Yageo" 50 -250 25 H I L CNN "Manufacturer"
+F7 "RC0603FR-0722KL" 50 -300 25 H I L CNN "Part Number"
+DRAW
+S -25 -50 25 -150 1 1 0 N
+X ~ 1 0 0 50 D 25 25 1 1 P
+X ~ 2 0 -200 50 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#
+# RC1206FR-0762RL
+#
+DEF RC1206FR-0762RL R 0 0 N N 1 F N
+F0 "R" 50 -50 25 H V L CNN
+F1 "RC1206FR-0762RL" 50 -150 25 H I L CNN
+F2 "footprint:RES-1206" 50 -350 25 H I L CNN
+F3 "" 0 0 25 H I L CNN
+F4 "62R, 1%" 50 -100 25 H V L CNN "Parameter primary"
+F5 "0.25W, -55 … +155degC" 50 -200 25 H I L CNN "Parameter secondary"
+F6 "Yageo" 50 -250 25 H I L CNN "Manufacturer"
+F7 "RC1206FR-0762RL" 50 -300 25 H I L CNN "Part Number"
+DRAW
+S -25 -50 25 -150 1 1 0 N
+X ~ 1 0 0 50 D 25 25 1 1 P
+X ~ 2 0 -200 50 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#
+# RC0603FR-07470KL
+#
+DEF RC0603FR-07470KL R 0 0 N N 1 F N
+F0 "R" 50 -50 25 H V L CNN
+F1 "RC0603FR-07470KL" 50 -150 25 H I L CNN
+F2 "footprint:RES-0603" 50 -350 25 H I L CNN
+F3 "" 0 0 25 H I L CNN
+F4 "470k, 1%" 50 -100 25 H V L CNN "Parameter primary"
+F5 "0.1W, -55 … +155degC" 50 -200 25 H I L CNN "Parameter secondary"
+F6 "Yageo" 50 -250 25 H I L CNN "Manufacturer"
+F7 "RC0603FR-07470KL" 50 -300 25 H I L CNN "Part Number"
+DRAW
+S -25 -50 25 -150 1 1 0 N
+X ~ 1 0 0 50 D 25 25 1 1 P
+X ~ 2 0 -200 50 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

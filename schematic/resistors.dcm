@@ -1,0 +1,81 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RC0603FR-071K5L
+D Resistor, RES-0603, 1k5, 1%, 0.1W, -55 … +155degC
+K Resistor, RES-0603, Yageo, RC0603FR-071K5L, 1k5, 1%, 0.1W, -55 … +155degC
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC0603FR-072K7L
+D Resistor, RES-0603, 2k7, 1%, 0.1W, -55 … +155degC
+K Resistor, RES-0603, Yageo, RC0603FR-072K7L, 2k7, 1%, 0.1W, -55 … +155degC
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC0603FR-074K7L
+D Resistor, RES-0603, 4k7, 1%, 0.1W, -55 … +155degC
+K Resistor, RES-0603, Yageo, RC0603FR-074K7L, 4k7, 1%, 0.1W, -55 … +155degC
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC0603FR-075K1L
+D Resistor, RES-0603, 5k1, 1%, 0.1W, -55 … +155degC
+K Resistor, RES-0603, Yageo, RC0603FR-075K1L, 5k1, 1%, 0.1W, -55 … +155degC
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC0603FR-0710KL
+D Resistor, RES-0603, 10k, 1%, 0.1W, -55 … +155degC
+K Resistor, RES-0603, Yageo, RC0603FR-0710KL, 10k, 1%, 0.1W, -55 … +155degC
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC0603FR-0722RL
+D Resistor, RES-0603, 22R, 1%, 0.1W, -55 … +155degC
+K Resistor, RES-0603, Yageo, RC0603FR-0722RL, 22R, 1%, 0.1W, -55 … +155degC
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC0603FR-0747KL
+D Resistor, RES-0603, 47k, 1%, 0.1W, -55 … +155degC
+K Resistor, RES-0603, Yageo, RC0603FR-0747KL, 47k, 1%, 0.1W, -55 … +155degC
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC0603FR-0782RL
+D Resistor, RES-0603, 82R, 1%, 0.1W, -55 … +155degC
+K Resistor, RES-0603, Yageo, RC0603FR-0782RL, 82R, 1%, 0.1W, -55 … +155degC
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC0603FR-07120RL
+D Resistor, RES-0603, 120R, 1%, 0.1W, -55 … +155degC
+K Resistor, RES-0603, Yageo, RC0603FR-07120RL, 120R, 1%, 0.1W, -55 … +155degC
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC0603JR-070RL
+D Resistor, RES-0603, 0R, 5%, 0.1W, -55 … +155degC
+K Resistor, RES-0603, Yageo, RC0603JR-070RL, 0R, 5%, 0.1W, -55 … +155degC
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC0603FR-0722KL
+D Resistor, RES-0603, 22k, 1%, 0.1W, -55 … +155degC
+K Resistor, RES-0603, Yageo, RC0603FR-0722KL, 22k, 1%, 0.1W, -55 … +155degC
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC1206FR-0762RL
+D Resistor, RES-1206, 62R, 1%, 0.25W, -55 … +155degC
+K Resistor, RES-1206, Yageo, RC1206FR-0762RL, 62R, 1%, 0.25W, -55 … +155degC
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC0603FR-07470KL
+D Resistor, RES-0603, 470k, 1%, 0.1W, -55 … +155degC
+K Resistor, RES-0603, Yageo, RC0603FR-07470KL, 470k, 1%, 0.1W, -55 … +155degC
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+#End Doc Library
