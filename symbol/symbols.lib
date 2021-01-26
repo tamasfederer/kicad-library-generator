@@ -1,0 +1,43 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Capacitor-Standard
+#
+DEF Capacitor-Standard %%REFERENCE%% 0 0 N N 1 F N
+F0 "%%REFERENCE%%" 50 -50 25 H V L CNN
+F1 "Capacitor-Standard" 50 -150 25 H I L CNN
+F2 "%%FOOTPRINT%%" 50 -350 25 H I L CNN
+F3 "" 0 0 25 H I L CNN
+F4 "%%PARAMETER-PRIMARY%%" 50 -100 25 H V L CNN "Parameter primary"
+F5 "%%PARAMETER-SECONDARY%%" 50 -200 25 H I L CNN "Parameter secondary"
+F6 "%%MANUFACTURER%%" 50 -250 25 H I L CNN "Manufacturer"
+F7 "%%PART-NUMBER%%" 50 -300 25 H I L CNN "Part Number"
+DRAW
+P 2 1 1 10 -50 -115 50 -115 N
+P 2 1 1 10 -50 -85 50 -85 N
+P 2 1 1 0 0 -120 0 -150 N
+P 3 1 1 0 0 -50 0 -80 0 -75 N
+X ~ 1 0 0 50 D 25 25 1 1 P
+X ~ 2 0 -200 50 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Resistor
+#
+DEF Resistor %%REFERENCE%% 0 0 N N 1 F N
+F0 "%%REFERENCE%%" 50 -50 25 H V L CNN
+F1 "Resistor" 50 -150 25 H I L CNN
+F2 "%%FOOTPRINT%%" 50 -350 25 H I L CNN
+F3 "" 0 0 25 H I L CNN
+F4 "%%PARAMETER-PRIMARY%%" 50 -100 25 H V L CNN "Parameter primary"
+F5 "%%PARAMETER-SECONDARY%%" 50 -200 25 H I L CNN "Parameter secondary"
+F6 "%%MANUFACTURER%%" 50 -250 25 H I L CNN "Manufacturer"
+F7 "%%PART-NUMBER%%" 50 -300 25 H I L CNN "Part Number"
+DRAW
+S -25 -50 25 -150 1 1 0 N
+X ~ 1 0 0 50 D 25 25 1 1 P
+X ~ 2 0 -200 50 U 25 25 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
