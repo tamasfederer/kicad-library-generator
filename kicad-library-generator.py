@@ -1,7 +1,8 @@
 import xlrd
 
-lib_name = 'lib.xlsx'
-symbols_name = "./schematic/symbols.lib"
+lib_name = 'example.xlsx'
+symbols_name = './symbol/symbols.lib'
+output_folder = './schematic'
 
 # Debug functions
 
@@ -25,7 +26,7 @@ def error(text):
 
 def file_write(file_name, content):
     try:
-        f = open(file_name, 'w')
+        f = open(output_folder + '/' + file_name, 'w')
         f.write(content)
         f.close()
     except FileNotFoundError:
