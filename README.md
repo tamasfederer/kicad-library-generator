@@ -31,6 +31,8 @@ In the [script](kicad-library-generator.py), you can set up three parameters:
 
 ## Usage
 
+This chapter is planned to be updated in the near future.
+
 Have a look on the [example](example.xlsx). Feel free to add more components and/or sheets.
 
 ## Features to implement
