@@ -1,17 +1,19 @@
 # KiCAD Library Generator
+A KiCAD Library Generator tool to simplify library maintenance
+
 ![Work in progress](https://img.shields.io/badge/Status-Work%20in%20progress-important)
 
-A KiCAD Library Generator tool to simplyfy library maintenance.
+**This script is heavily work in progress! It can be used only for experimental purposes.**
 
 ## Motivation
 
-Have you ever wondered what would it be to have a KiCAD library based on an Excel workbook? Or to avoid any duplicated work to draw the same schematic symbols over and over? Now, the solution is here!
+Have you ever wondered what would it be to have a KiCAD library based on an Excel workbook (similar to [Altium Database Libraries](https://www.altium.com/documentation/altium-designer/working-with-database-libraries-ad))? Or to avoid any duplicated work to draw the same schematic symbols over and over? Now, the solution is here!
 
 **Draw once, use unlimited times!**
 
 ## Features
 
-The KiCAD Library Generator reads the given Excel workbook to read the sheets and create a library for all sheets in it.
+The KiCAD Library Generator reads the given Excel workbook and creates one library from each sheets.
 
 ## Installation
 
@@ -31,9 +33,20 @@ In the [script](kicad-library-generator.py), you can set up three parameters:
 
 ## Usage
 
-This chapter is planned to be updated in the near future.
+The different sheets contain the different libraries. In the [example](example.xlsx) two sheets are present: 'capacitors' and 'resistors'. This means that two schematic symbol libraries will be created to the output folder, defined in the [script](kicad-library-generator.py).
 
-Have a look on the [example](example.xlsx). Feel free to add more components and/or sheets.
+The first row shall be the header. The next rows contain the different components. The script reads over the data (line-by-line), checks for the schematic symbol in the file, defined in the [script](kicad-library-generator.py) and create the component.
+
+The parameters will be injected into the schematic symbol in the following way.
+* Modify the header to UPPERCASE
+* Substitute the ' ' characters with '-'
+* Place '%%' to the beginning and to the end of the string
+
+E.g. the data in the 'Parameter seconday' column will be injected to the schematic symbol '%%PARAMETER-SECONDARY%%' value.
+
+![Symbol Parameters](https://github.com/tamasfederer/kicad-library-generator/blob/main/doc/symbol-parameter.png?raw=true)
+
+Have a look on the example, make some trials and feel free to add more components and/or sheets.
 
 ## Features to implement
 
